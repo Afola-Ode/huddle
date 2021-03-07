@@ -206,6 +206,11 @@ footer {
 }
 
 /* responsiveness starts */
+@media(max-width: 1232px){
+  .main-img{
+    width: 527px;
+  }
+}
 @media(max-width:900px){
 .sn{
   width: 8rem;
